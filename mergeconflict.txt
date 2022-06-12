@@ -1,4 +1,5 @@
 update1 : updated by the user from desktop git
 
 
-update2: this is 2nd update from desktop git user - without doing git pull
+update2 : this update is done by another user from remote repo - github
+update3: this is 2nd update from desktop git user - without doing git pull 
